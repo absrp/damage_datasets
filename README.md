@@ -3,4 +3,4 @@ Datasets produced in Rodriguez Padilla, A.M., Oskin, M.E., Milliner, C.,and Ples
 
 Includes: 
 1. Strain profiles and profile location files.
-2. Shapefiles containing the fracture/aftershock density or strain intensity at a given distance from the fault for all of the plots in figures 2 and 3 of the manuscript.
+2. Text files containing the fracture/aftershock density or strain intensity at a given distance from the fault for all of the plots in figures 2 and 3 of the manuscript.
