@@ -1,5 +1,5 @@
 # damage_datasets
-Datasets produced in Rodriguez Padilla, A.M., Oskin, M.E., Milliner, C.,and Plesch, A. Widespread rock damage from the 2019 Ridgecrest earthquakes. Nature Geoscience.
+Datasets produced in Rodriguez Padilla, A.M., Oskin, M.E., Milliner, C.,and Plesch, A. Accrual of widespread rock damage from the 2019 Ridgecrest earthquakes. Nature Geoscience.
 
 Includes: 
 1. Strain profiles and profile location files.
